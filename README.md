@@ -3,4 +3,4 @@
 
 1. Dice game
 2. MadLibs
-3. Tic Tac Toe
+3. Tic Tac Toe (em desenvolvimento)
